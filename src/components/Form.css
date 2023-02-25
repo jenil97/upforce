@@ -1,0 +1,15 @@
+@media only screen and (max-width: 768px) {
+  .form-page-one,
+  .form-page-two,
+  .form-page-three {
+    max-width: 400px;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .form-page-one,
+  .form-page-two,
+  .form-page-three {
+    max-width: 300px;
+  }
+}
